@@ -4,11 +4,15 @@ import 'regenerator-runtime/runtime';
 
 export const state = {
   recipe: {},
+  search: {
+    query: '',
+    results: [],
+  },
 };
 
 export const loadRecipe = async function (id) {
   try {
-    const data = await getJSON(`${configData.API_URI}/${id}`);
+    const data = await getJSON(`${configData.API_URI}${id}`);
     const recipe = data.data.recipe;
     state.recipe = {
       cookingTime: recipe.cooking_time,
@@ -21,6 +25,27 @@ export const loadRecipe = async function (id) {
       title: recipe.title,
     };
   } catch (err) {
+    console.log(`${err.message}😱😱😱`);
+    throw err;
+  }
+};
+
+export const loadSearchResults = async function (query) {
+  state.search.query = query;
+  try {
+    const data = await getJSON(
+      `${configData.API_URI}?search=${query}&key=${configData.API_KEY}`
+    );
+    state.search.results = data.data.recipes.map(res => {
+      return {
+        id: res.id,
+        imageUrl: res.image_url,
+        publisher: res.publisher,
+        title: res.title,
+      };
+    });
+  } catch (err) {
+    console.log(`${err.message}😱😱😱`);
     throw err;
   }
 };

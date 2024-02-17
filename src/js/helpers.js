@@ -16,7 +16,7 @@ export const getJSON = async function (url) {
       timeout(configData.TIMEOUT_SEC),
     ]);
     const data = await response.json();
-    if (!response.ok) throw new Error(`${data.error}(${response.status})`);
+    if (!response.ok) throw new Error(`${data.message}(${response.status})`);
     return data;
   } catch (err) {
     throw err;

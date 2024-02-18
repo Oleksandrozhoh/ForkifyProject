@@ -5,9 +5,14 @@ import BaseView from './baseView';
 class RecipeView extends BaseView {
   _parentElement = document.querySelector('.recipe');
   _updateServingsButtons = document.querySelector('.recipe__info-buttons');
+  _lnkDirections = document.querySelector('.recipe__btn');
   _errorMessage = 'We could not find that recipe. Please try another one';
   _message = '';
 
+  constructor() {
+    super();
+    this.addHandlerDirectionsLink();
+  }
   _generateMarkup() {
     return `<figure class="recipe__fig">
       <img src="${this._data.imageUrl}" alt="${
@@ -55,8 +60,10 @@ class RecipeView extends BaseView {
         </div>
       </div>
 
-      <div class="recipe__user-generated">
-       
+      <div class="recipe__user-generated ${this._data.key ? '' : 'hidden'}">
+        <svg>
+           <use href="${icons}#icon-user"></use>
+        </svg>
       </div>
       <button class="btn--round btn--bookmark">
         <svg class="">
@@ -125,6 +132,14 @@ class RecipeView extends BaseView {
       if (!btn) return;
       const updateTo = +btn.dataset.updateTo;
       if (updateTo > 0) handler(updateTo);
+    });
+  }
+
+  addHandlerDirectionsLink() {
+    this._parentElement.addEventListener('click', e => {
+      const link = e.target.closest('.recipe__btn');
+      if (!link) return;
+      window.open(link.href);
     });
   }
 

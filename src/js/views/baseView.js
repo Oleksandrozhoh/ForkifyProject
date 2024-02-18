@@ -4,14 +4,16 @@ export default class BaseView {
   _parentElement;
   _data;
 
-  render(recipeData) {
+  render(recipeData, render = true) {
     // if no data
     if (!recipeData || (Array.isArray(recipeData) && recipeData.length === 0))
       return this.renderError();
 
     this._data = recipeData;
     const markup = this._generateMarkup();
-    // console.log(markup);
+
+    if (!render) return markup;
+
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }

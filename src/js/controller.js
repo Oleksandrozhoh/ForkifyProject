@@ -17,6 +17,8 @@ const controlRecipes = async function () {
     // get id form url
     const id = this.window.location.hash.slice(1);
     if (!id) return;
+    // update results view to mark selected recipe
+    resultsView.update(model.getSearchResultsPage());
     // add loading spiner
     recipeView.renderSpinner();
     // get recipe data
@@ -56,8 +58,18 @@ const controlPagination = async function (page) {
   paginationView.render(model.state.search);
 };
 
+const controlServings = async function (newServings) {
+  // update recipe servings
+  model.updateServings(newServings);
+  // render recipe view with new data
+  const recipe = model.state.recipe;
+  // recipeView.render(recipe);
+  recipeView.update(recipe);
+};
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHandlerUpdateServings(controlServings);
   searchView.addHandlerRender(controlSearchResult);
   paginationView.addHandlerClick(controlPagination);
 };

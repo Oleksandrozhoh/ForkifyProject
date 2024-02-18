@@ -4,6 +4,7 @@ import BaseView from './baseView';
 
 class RecipeView extends BaseView {
   _parentElement = document.querySelector('.recipe');
+  _updateServingsButtons = document.querySelector('.recipe__info-buttons');
   _errorMessage = 'We could not find that recipe. Please try another one';
   _message = '';
 
@@ -37,12 +38,16 @@ class RecipeView extends BaseView {
         <span class="recipe__info-text">servings</span>
 
         <div class="recipe__info-buttons">
-          <button class="btn--tiny btn--increase-servings">
+          <button data-update-to="${
+            this._data.servings - 1
+          }" class="btn--tiny btn--update-servings">
             <svg>
               <use href="${icons}#icon-minus-circle"></use>
             </svg>
           </button>
-          <button class="btn--tiny btn--increase-servings">
+          <button data-update-to="${
+            this._data.servings + 1
+          }" class="btn--tiny btn--update-servings">
             <svg>
               <use href="${icons}#icon-plus-circle"></use>
             </svg>
@@ -109,6 +114,16 @@ class RecipeView extends BaseView {
         handler();
       })
     );
+  }
+
+  addHandlerUpdateServings(handler) {
+    this._parentElement.addEventListener('click', function (e) {
+      // e.preventDefault();
+      const btn = e.target.closest('.btn--update-servings');
+      if (!btn) return;
+      const updateTo = +btn.dataset.updateTo;
+      if (updateTo > 0) handler(updateTo);
+    });
   }
 }
 

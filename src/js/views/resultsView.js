@@ -7,9 +7,12 @@ class ResultsView extends BaseView {
   _message = '';
 
   _generateMarkup() {
+    const urlId = window.location.hash.slice(1);
     return this._data.reduce((output, result) => {
       return (output += `<li class="preview">
-    <a class="preview__link" href="#${result.id}">
+    <a class="preview__link ${
+      urlId === result.id ? `preview__link--active` : ``
+    }" href="#${result.id}">
       <figure class="preview__fig">
         <img src="${result.imageUrl}" alt="${result.title}" />
       </figure>

@@ -1,24 +1,21 @@
-import BaseView from './baseView';
-
-class SearchView extends BaseView {
-  _parentElement = document.querySelector('.search');
-  _inputBox = document.querySelector('.search__field');
-
-  addHandlerRender(handler) {
-    this._parentElement.addEventListener('submit', function (e) {
-      e.preventDefault();
-      handler();
-    });
-  }
+class SearchView {
+  _parentEl = document.querySelector('.search');
 
   getQuery() {
-    const query = this._inputBox.value;
-    this._clearInputBox();
+    const query = this._parentEl.querySelector('.search__field').value;
+    this._clearInput();
     return query;
   }
 
-  _clearInputBox() {
-    this._inputBox.value = '';
+  _clearInput() {
+    this._parentEl.querySelector('.search__field').value = '';
+  }
+
+  addHandlerSearch(handler) {
+    this._parentEl.addEventListener('submit', function (e) {
+      e.preventDefault();
+      handler();
+    });
   }
 }
 

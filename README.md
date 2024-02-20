@@ -1,3 +1,3 @@
-# Forkify project
+# forkify Project
 
-Application to search among 1000s of recipes and appload your own recipes
+Recipe application with custom recipe uploads.

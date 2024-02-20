@@ -1,44 +1,42 @@
-import BaseView from './baseView';
+import View from './View.js';
+import icons from 'url:../../img/icons.svg'; // Parcel 2
 
-class AddRecipeView extends BaseView {
+class AddRecipeView extends View {
   _parentElement = document.querySelector('.upload');
-  _addRecipeWindow = document.querySelector('.add-recipe-window');
+  _message = 'Recipe was successfully uploaded :)';
+
+  _window = document.querySelector('.add-recipe-window');
   _overlay = document.querySelector('.overlay');
-  _btnOpenForm = document.querySelector('.nav__btn--add-recipe');
-  _btnCloseForm = document.querySelector('.btn--close-modal');
+  _btnOpen = document.querySelector('.nav__btn--add-recipe');
+  _btnClose = document.querySelector('.btn--close-modal');
 
   constructor() {
     super();
     this._addHandlerShowWindow();
-    this._addHandlerCloseWindow();
+    this._addHandlerHideWindow();
+  }
+
+  toggleWindow() {
+    this._overlay.classList.toggle('hidden');
+    this._window.classList.toggle('hidden');
   }
 
   _addHandlerShowWindow() {
-    this._btnOpenForm.addEventListener(
-      'click',
-      this.toggleAddRecipeForm.bind(this)
-    );
+    this._btnOpen.addEventListener('click', this.toggleWindow.bind(this));
   }
 
-  _addHandlerCloseWindow() {
-    this._btnCloseForm.addEventListener(
-      'click',
-      this.toggleAddRecipeForm.bind(this)
-    );
+  _addHandlerHideWindow() {
+    this._btnClose.addEventListener('click', this.toggleWindow.bind(this));
+    this._overlay.addEventListener('click', this.toggleWindow.bind(this));
   }
 
-  _addHandlerUpload(handler) {
+  addHandlerUpload(handler) {
     this._parentElement.addEventListener('submit', function (e) {
       e.preventDefault();
-      const dataArray = [...new FormData(this)];
-      const data = Object.fromEntries(dataArray);
+      const dataArr = [...new FormData(this)];
+      const data = Object.fromEntries(dataArr);
       handler(data);
     });
-  }
-
-  toggleAddRecipeForm() {
-    this._addRecipeWindow.classList.toggle('hidden');
-    this._overlay.classList.toggle('hidden');
   }
 
   _generateMarkup() {}

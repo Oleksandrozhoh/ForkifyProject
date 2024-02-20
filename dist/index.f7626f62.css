@@ -672,7 +672,6 @@ body {
 
 .recipe__directions {
   flex-direction: column;
-  grid-column: -3 / -1;
   align-items: center;
   padding: 5rem 10rem;
   display: flex;

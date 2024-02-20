@@ -8,7 +8,7 @@
 137C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\binary-extensions133525131539808339 1
 134C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\types133525131540898355 1
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\object\create.js133525213025619798 0
-117C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\.gitignore133527769862809089 0
+117C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\.gitignore133527785411208228 0
 163C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\regexp-unsupported-ncg.js133525213068333665 0
 135C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-3.png133494103282681706 0
 138C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\timsort\LICENSE.md133525130156809007 0
@@ -46,7 +46,7 @@
 152C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\index-of.js133525213051163501 0
 133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\semver\ranges133525130167379153 1
 149C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\weak-set\from.js133525213046503454 0
-111C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist133527762103789675 1
+111C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist133528691578661472 1
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\package.json133525130167209149 0
 138C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\js-yaml\lib\schema133525130162539082 1
 146C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\forkify-architecture-recipe-loading.png133494103281874384 0
@@ -89,7 +89,7 @@
 124C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\img\icons.svg133494103283608629 0
 139C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\immutable\README.md133525131540808360 0
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\CDO.js133525130174009243 0
-117C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\index.html133527652428623267 0
+117C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\index.html133528691065659977 0
 158C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\fontface.js133525130180679608 0
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\dist\index.js133525130156029009 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\util.d.ts.map133525130163089096 0
@@ -110,7 +110,7 @@
 184C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\index.js133525130169939185 0
 170C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133525130170079186 1
 169C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133525130170099189 0
-124C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\package-lock.json133526088200261000 0
+124C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\package-lock.json133528686572253534 0
 158C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\includes.js133525213050843500 0
 126C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\base-x133525130155898993 1
 138C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test133525130170099189 1
@@ -232,7 +232,7 @@
 145C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\semver\functions\patch.js133525130165549133 0
 152C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\number\is-finite.js133525213055883576 0
 168C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\copy-constructor-properties.js133525213024879814 0
-127C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133527705640889419 0
+127C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133528671679081918 0
 153C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array133525130178649584 1
 169C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133525130169619183 0
 148C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_update.mjs133525130181219615 0
@@ -256,7 +256,7 @@
 153C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\date\set-year.js133525213071173700 0
 122C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\js\model.js133527735862421882 0
 160C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\dom-collections\iterator.js133525213058433563 0
-133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133527729552939782 0
+133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133528683664770039 0
 165C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build-optional-packages\package.json133525130157579021 0
 156C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\cleanupNumericValues.js133525130167189150 0
 158C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\decode_codepoint.d.ts.map133525130161059064 0
@@ -2059,7 +2059,7 @@
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\css\properties.schema.json133525130163129099 0
 148C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\attributes.js133525130157569021 0
 144C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\data-view133525213070293678 1
-132C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133527762102629648 0
+132C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133528688834171631 0
 148C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs133525130168229165 1
 145C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\is-iterable.js133525213056153558 0
 171C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133525130154988986 0
@@ -3467,7 +3467,7 @@
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\unique-by.js133525213083711857 0
 168C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\generated\decode-data-html.d.ts.map133525130161299067 0
 173C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\lexer\generic-const.js133525130175569269 0
-130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.34fb2661.css133527745310275240 0
+130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.34fb2661.css133528691578551462 0
 149C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\src\Handle.js133525130162969091 0
 164C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\data-patch.js133525130174849262 0
 157C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\trim-start.js133525213082371841 0
@@ -4221,6 +4221,7 @@
 162C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133525130177299563 0
 152C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\splice.js133525213073403710 0
 163C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\NestingSelector.js133525130177439565 0
+133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.d971d297.js.map133528691578641460 0
 154C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Number.js133525130177509566 0
 153C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.parse-float.js133525213032035225 0
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Raw.js133525130177919571 0
@@ -4425,7 +4426,7 @@
 160C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133525130167089151 0
 160C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.regexp.constructor.js133525213032615217 0
 156C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\atrule\index.cjs133525130169089175 0
-132C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\favicon.42656662.png133527745300201254 0
+132C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\favicon.42656662.png133528691570211354 0
 181C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133525130158069027 0
 156C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\atrule\media.cjs133525130170039187 0
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\atrule\page.cjs133525130171019209 0
@@ -4690,10 +4691,10 @@
 149C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\general.js.map133525130167209149 0
 145C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\lib133525130153608967 1
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\index.js.map133525130167909161 0
-130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133527762102539653 0
+130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133528688834181634 0
 145C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\index.d.ts133525130170179193 0
 167C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-key.js133525130182929646 0
-134C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133527762102669641 0
+134C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133528688834251631 0
 149C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\index.d.ts.map133525130167539158 0
 154C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\group-to-map.js133525213049323486 0
 143C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\index.js133525130161419075 0
@@ -6316,7 +6317,7 @@
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\fround.js133525213046623455 0
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\fscale.js133525213046683454 0
 146C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\hypot.js133525213050073494 0
-130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133527745308998714 0
+130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133528691570861358 0
 146C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\iaddh.js133525213050123494 0
 172C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\esm\_class_static_private_method_get.js133525130172999237 0
 146C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\index.js133525213053363523 0
@@ -6509,6 +6510,7 @@
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\group.js133525213049473481 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\includes.js133525213050633495 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\index-of.js133525213051083500 0
+129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.d971d297.js133528691578561460 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\is-array.js133525213055223540 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\iterator.js133525213058393568 0
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\last-index-of.js133525213059803586 0
@@ -6655,7 +6657,7 @@
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\EG.js133525130179529590 0
 162C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\uint32-array.js133525213083161856 0
 157C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\slice.js133525213071943702 0
-130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133527762103769680 0
+130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133528688834181634 0
 156C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\sort.js133525213073043716 0
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\asmjs.js133525130166099133 0
 160C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\subarray.js133525213075843742 0
@@ -7194,7 +7196,7 @@
 173C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133525130163759112 0
 158C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\uint16-array.js133525213083091846 0
 165C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\uint8-clamped-array.js133525213083371852 0
-129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133527762102589661 0
+129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133528688834181634 0
 152C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\values.js133525213084661861 0
 150C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\with.js133525213085891891 0
 155C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\symbol\async-iterator.js133525213019939756 0
@@ -8654,7 +8656,6 @@
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-posthtml\package.json133525130157959027 0
 140C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw133525130156138997 1
 140C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-svg133525130156148999 1
-133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.0ff55995.js.map133527745310375248 0
 141C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-wasm133525130158399031 1
 136C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\profiler133525130160769064 1
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server133525130163839109 1
@@ -8847,7 +8848,7 @@
 165C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133525130153818967 0
 160C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\package.json133525130163909106 0
 151C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src133525130163549102 1
-129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\logo.833dfef5.png133527745303141467 0
+129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\logo.833dfef5.png133528691570211354 0
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src\Server.js133525130158319031 0
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src\templates133525130156199004 1
 133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.ps1133525130191387804 0
@@ -9479,7 +9480,6 @@
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\custom-targets133525130176919557 1
 169C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133525130176889559 1
 164C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\duplicate-targets133525130176949558 1
-141C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.ce8761fb.js.map133527745310335254 0
 163C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-distpath133525130176989561 1
 169C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-source-missing133525130177069565 1
 176C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133525130177159560 1
@@ -9709,7 +9709,6 @@
 162C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\node-gyp-build-optional-packages-test133525130191387804 0
 166C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133525130191387804 0
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\node-gyp-build-optional-packages.cmd133525130191387804 0
-129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.0ff55995.js133527745310275240 0
 161C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\node-gyp-build-optional-packages.ps1133525130191377804 0
 135C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\parcel.cmd133525130191387804 0
 135C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\parcel.ps1133525130191387804 0
@@ -9718,9 +9717,10 @@
 135C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.cmd133525130191387804 0
 135C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\semver.ps1133525130191387804 0
 147C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db133525130191397803 0
-130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133527762102589661 0
-134C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.34fb2661.css.map133527745310345250 0
-129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133527762102779637 0
-133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133527762102849647 0
-122C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.html133527762102499632 0
-137C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.ce8761fb.js133527745310275240 0
+130C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133528688834191635 0
+134C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.34fb2661.css.map133528691578631462 0
+129C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133528688834181634 0
+133C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133528688834261626 0
+122C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.html133528691578551462 0
+137C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.718c5a6b.js133528691578551462 0
+141C:\Users\OOzhoh\OneDrive - CHS Inc\Desktop\JavaScript\complete-javascript-course-master\18-forkify\starter\dist\index.runtime.718c5a6b.js.map133528691578611466 0
